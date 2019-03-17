@@ -1,0 +1,7 @@
+C:\Users\abhi1\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojAssemblyReference.cache
+C:\Users\abhi1\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+C:\Users\abhi1\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\abhi1\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.dll
+C:\Users\abhi1\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+C:\Users\abhi1\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\abhi1\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
